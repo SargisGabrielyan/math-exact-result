@@ -1,0 +1,39 @@
+{
+  "name": "math-exact-result",
+  "version": "1.1.6",
+  "description": "Math addition subtraction multiplication and division functions which return the exact result without floating point number.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/SargisGabrielyan/math-exact-result.git",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Math",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "add",
+    "sub",
+    "mul",
+    "div",
+    "math-correct-result",
+    "math-exact-result",
+    "simple-math-operations",
+    "pure-math",
+    "mathematics",
+    "javascript Math problem",
+    "floating point",
+    "IEEE-754",
+    "IEEE 754",
+    "0.30000000000000004"
+  ],
+  "author": "Sargis Gabrielyan",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.23.0",
+    "jest": "^29.7.0"
+  }
+}
