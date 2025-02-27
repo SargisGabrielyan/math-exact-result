@@ -1,6 +1,6 @@
 {
   "name": "math-exact-result",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Math addition subtraction multiplication and division functions which return the exact result without floating point number.",
   "keywords": [
     "Math",
