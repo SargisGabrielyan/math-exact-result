@@ -1,6 +1,6 @@
 {
   "name": "math-exact-result",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Math addition subtraction multiplication and division functions which return the exact result without floating point number.",
   "keywords": [
     "Math",
@@ -36,7 +36,7 @@
   "type": "commonjs",
   "main": "dist/index.js",
   "scripts": {
-    "test":  "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",
