@@ -1,4 +1,4 @@
-import { add, divide, multiply, subtract } from '../src';
+import { add, divide, multiply, subtract } from '../index';
 
 describe('Calculator Util Tests.', () => {
   describe('Addition function tests.', () => {
