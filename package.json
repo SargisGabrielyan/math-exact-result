@@ -1,6 +1,6 @@
 {
   "name": "math-exact-result",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Math addition subtraction multiplication and division functions which return the exact result without floating point number.",
   "main": "dist/index.js",
   "repository": "https://github.com/SargisGabrielyan/math-exact-result.git",
